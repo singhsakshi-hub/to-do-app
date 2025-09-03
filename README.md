@@ -18,3 +18,12 @@ npm install
 
 # Start development server
 npm run dev
+```
+
+## 🛠️ Built With
+
+- [React.js](https://react.dev/) – Frontend framework  
+- [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework  
+- [LocalStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) – Browser storage for persistence
+
+
