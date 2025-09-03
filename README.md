@@ -26,4 +26,9 @@ npm run dev
 - [Tailwind CSS](https://tailwindcss.com/) – Utility-first CSS framework  
 - [LocalStorage API](https://developer.mozilla.org/en-US/docs/Web/API/Window/localStorage) – Browser storage for persistence
 
+## 📸 Screenshots
+
+Here’s how the app looks:
+
+![Todo App Screenshot](./screenshots/todo.png)
 
